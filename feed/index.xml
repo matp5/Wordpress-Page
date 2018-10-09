@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Test WordPress</title>
+	<atom:link href="/https://matp5.github.io/Wordpress-Page/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://matp5.github.io/Wordpress-Page</link>
+	<description>Kolejna witryna oparta na WordPressie</description>
+	<lastBuildDate>Tue, 09 Oct 2018 19:15:32 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Witaj, świecie!</title>
+		<link>/https://matp5.github.io/Wordpress-Page/2018/10/09/witaj-swiecie/</link>
+		<comments>/https://matp5.github.io/Wordpress-Page/2018/10/09/witaj-swiecie/#comments</comments>
+		<pubDate>Tue, 09 Oct 2018 19:15:32 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Bez kategorii]]></category>
+
+		<guid isPermaLink="false">/https://matp5.github.io/Wordpress-Page/?p=1</guid>
+		<description><![CDATA[Witaj w WordPressie. To jest twój pierwszy wpis. Zmodyfikuj go lub usuń, a następnie rozpocznij pisanie!]]></description>
+				<content:encoded><![CDATA[<p>Witaj w WordPressie. To jest twój pierwszy wpis. Zmodyfikuj go lub usuń, a następnie rozpocznij pisanie!</p>
+]]></content:encoded>
+			<wfw:commentRss>/https://matp5.github.io/Wordpress-Page/2018/10/09/witaj-swiecie/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
